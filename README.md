@@ -1,4 +1,4 @@
-# R.A.M.Counter v.1
+# R.A.M.Counter v.2
 
 The name tells you what this is.. **What this does is every 10 seconds it will log your ram usage into a txt file. (avg 300kb every 24 hours.)** 
 
